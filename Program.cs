@@ -1,5 +1,6 @@
 ﻿// Senha valida ou invalida
-string snh = "1234";
+Console.WriteLine("crie uma senha de números para o usuário");
+string snh = Console.ReadLine();
 Console.WriteLine("Digite a senha de números do usuário");
 string cdg = Console.ReadLine();
 
